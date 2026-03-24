@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Doc Summary Updates"
+  short_description: "Ask about README/CLAUDE/AGENTS updates"
+  default_prompt: "Use $prompt-doc-summary-updates to ask whether the completed task summary should update or create root repo docs before finishing."

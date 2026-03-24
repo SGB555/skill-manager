@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finishing With Doc Summary"
+  short_description: "Finish branch with doc update prompt"
+  default_prompt: "Use $finishing-with-doc-summary to check repo docs before running the normal branch completion workflow."
