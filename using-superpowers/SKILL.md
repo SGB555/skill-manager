@@ -105,3 +105,9 @@ The skill itself tells you which.
 Instructions say WHAT, not HOW. "Add X" or "Fix Y" does not, by itself, authorize any skill invocation.
 
 When the user says "use superpowers" or explicitly names `$using-superpowers`, treat that as authorization to use the superpowers workflow. After that point, you may choose whichever child superpowers are appropriate without waiting for each one to be named.
+
+## Repository Language Policy
+
+When the active repository defines a language policy, treat that repository policy as the source of truth for human-facing output across the superpowers workflow. Child skills selected through `$using-superpowers` should inherit that policy automatically.
+
+Keep canonical skill names, file names, commands, paths, code, and technical identifiers unchanged. Apply the repository's preferred language only to human-facing titles, explanations, reports, plan content, review content, and summaries.

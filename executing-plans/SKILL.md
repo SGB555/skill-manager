@@ -11,6 +11,8 @@ Load plan, review critically, execute tasks in batches, report for review betwee
 
 **Core principle:** Batch execution with checkpoints for architect review.
 
+When working inside a repository with a language policy, follow the repository policy for all human-facing execution updates. Keep canonical file names, commands, paths, code, and technical identifiers unchanged. Use the repository's preferred language for batch reports, task status explanations, blocker notes, and completion summaries, while logs and raw command output may remain in their original language.
+
 **Announce at start:** "I'm using the executing-plans skill to implement this plan."
 
 ## The Process

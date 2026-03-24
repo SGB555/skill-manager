@@ -11,6 +11,8 @@ Write comprehensive implementation plans assuming the engineer has zero context 
 
 Assume they are a skilled developer, but know almost nothing about our toolset or problem domain. Assume they don't know good test design very well.
 
+When working inside a repository with a language policy, follow the repository policy for all human-facing plan content. Keep canonical file names, commands, paths, code, and technical identifiers unchanged. If the repository prefers Simplified Chinese, write the plan title, section headings, explanations, and execution handoff text in Simplified Chinese while preserving required file naming conventions.
+
 **Announce at start:** "I'm using the writing-plans skill to create the implementation plan."
 
 **Context:** This should be run in a dedicated worktree (created by brainstorming skill).
@@ -29,6 +31,8 @@ Assume they are a skilled developer, but know almost nothing about our toolset o
 ## Plan Document Header
 
 **Every plan MUST start with this header:**
+
+Use the same structure even when the human-facing text is written in the repository's preferred language.
 
 ```markdown
 # [Feature Name] Implementation Plan
