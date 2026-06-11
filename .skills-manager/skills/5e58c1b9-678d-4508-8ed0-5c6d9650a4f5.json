@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5e58c1b9-678d-4508-8ed0-5c6d9650a4f5",
+  "path": "gsd-validate-phase",
+  "path_key": "gsd-validate-phase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

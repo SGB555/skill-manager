@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2a0caa6c-c17b-4264-910c-956d9a98edc3",
+  "path": "cloudflare/references/durable-objects",
+  "path_key": "cloudflare/references/durable-objects",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

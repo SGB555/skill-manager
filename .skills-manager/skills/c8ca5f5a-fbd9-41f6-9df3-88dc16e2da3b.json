@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8ca5f5a-fbd9-41f6-9df3-88dc16e2da3b",
+  "path": "gsd-discuss-phase",
+  "path_key": "gsd-discuss-phase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2180dfe9-b7cb-40bc-be86-98836ec1027e",
+  "path": "gsd-add-phase",
+  "path_key": "gsd-add-phase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

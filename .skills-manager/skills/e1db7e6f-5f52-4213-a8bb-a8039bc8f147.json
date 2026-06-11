@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e1db7e6f-5f52-4213-a8bb-a8039bc8f147",
+  "path": "cloudflare/references/terraform",
+  "path_key": "cloudflare/references/terraform",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

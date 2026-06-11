@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71687740-f250-467a-b0c3-68dd8da62f51",
+  "path": "cloudflare/references/tunnel",
+  "path_key": "cloudflare/references/tunnel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

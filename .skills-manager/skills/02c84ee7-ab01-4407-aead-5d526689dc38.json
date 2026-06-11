@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02c84ee7-ab01-4407-aead-5d526689dc38",
+  "path": "gsd-map-codebase",
+  "path_key": "gsd-map-codebase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

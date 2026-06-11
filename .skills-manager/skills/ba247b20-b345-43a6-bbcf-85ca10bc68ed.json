@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba247b20-b345-43a6-bbcf-85ca10bc68ed",
+  "path": "cloudflare/references/smart-placement",
+  "path_key": "cloudflare/references/smart-placement",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

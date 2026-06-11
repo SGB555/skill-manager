@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76fd27a7-8846-4c3e-8aed-ce034796617d",
+  "path": "cloudflare/references/containers",
+  "path_key": "cloudflare/references/containers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df51c8b0-6ff9-49b4-860a-d43da04bdd47",
+  "path": "cloudflare/references/ai-gateway",
+  "path_key": "cloudflare/references/ai-gateway",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

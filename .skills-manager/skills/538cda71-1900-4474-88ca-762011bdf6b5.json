@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "538cda71-1900-4474-88ca-762011bdf6b5",
+  "path": "cloudflare/references/browser-rendering",
+  "path_key": "cloudflare/references/browser-rendering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

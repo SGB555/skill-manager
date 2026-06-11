@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70b3386f-049b-4afb-b219-43096e41edbb",
+  "path": "cloudflare/references/bot-management",
+  "path_key": "cloudflare/references/bot-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

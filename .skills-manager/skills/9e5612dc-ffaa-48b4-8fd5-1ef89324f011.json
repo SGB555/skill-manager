@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e5612dc-ffaa-48b4-8fd5-1ef89324f011",
+  "path": "cloudflare/references/workers-vpc",
+  "path_key": "cloudflare/references/workers-vpc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

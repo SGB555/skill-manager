@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e027466f-41b7-4a3f-8776-4baf28b420e6",
+  "path": "cloudflare/references/wrangler",
+  "path_key": "cloudflare/references/wrangler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

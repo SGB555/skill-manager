@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d974bb4-6cb2-4053-9965-9b6850e74087",
+  "path": "gsd-set-profile",
+  "path_key": "gsd-set-profile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d65bcae-bde9-4b2a-a366-dc7dcc23b41d",
+  "path": "cloudflare/references/realtimekit",
+  "path_key": "cloudflare/references/realtimekit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

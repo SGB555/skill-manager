@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb595c86-1608-4f99-9586-3f75840c0610",
+  "path": "cloudflare/references/email-routing",
+  "path_key": "cloudflare/references/email-routing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

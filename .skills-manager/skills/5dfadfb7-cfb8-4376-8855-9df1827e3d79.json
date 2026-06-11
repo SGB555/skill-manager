@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5dfadfb7-cfb8-4376-8855-9df1827e3d79",
+  "path": "cloudflare/references/graphql-api",
+  "path_key": "cloudflare/references/graphql-api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

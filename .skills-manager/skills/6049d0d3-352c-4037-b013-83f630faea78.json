@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6049d0d3-352c-4037-b013-83f630faea78",
+  "path": "gsd-pause-work",
+  "path_key": "gsd-pause-work",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

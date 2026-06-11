@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b492690b-4735-484d-b863-12080d17dbc6",
+  "path": "gsd-new-project",
+  "path_key": "gsd-new-project",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

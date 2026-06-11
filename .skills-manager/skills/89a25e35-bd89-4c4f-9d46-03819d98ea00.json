@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "89a25e35-bd89-4c4f-9d46-03819d98ea00",
+  "path": "cloudflare/references/r2-data-catalog",
+  "path_key": "cloudflare/references/r2-data-catalog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

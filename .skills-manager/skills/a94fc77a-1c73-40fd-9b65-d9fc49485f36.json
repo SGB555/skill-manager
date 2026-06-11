@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a94fc77a-1c73-40fd-9b65-d9fc49485f36",
+  "path": "image-compress",
+  "path_key": "image-compress",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

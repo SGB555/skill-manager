@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2dc2df7a-155a-473e-98f0-e384a16b428d",
+  "path": "cloudflare/references/tail-workers",
+  "path_key": "cloudflare/references/tail-workers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e5915cc9-bf70-4722-a8e1-aa1d94f0499a",
+  "path": "cloudflare/references/pulumi",
+  "path_key": "cloudflare/references/pulumi",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

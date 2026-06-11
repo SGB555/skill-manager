@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b016fa7c-dccb-4482-9718-32c0cc34ffc5",
+  "path": "cloudflare/references/workerd",
+  "path_key": "cloudflare/references/workerd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

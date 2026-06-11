@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "62a5d21f-dafc-47fa-8c8f-a276062dcd58",
+  "path": "cloudflare/references/snippets",
+  "path_key": "cloudflare/references/snippets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

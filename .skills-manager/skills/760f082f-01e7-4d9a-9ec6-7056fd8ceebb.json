@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "760f082f-01e7-4d9a-9ec6-7056fd8ceebb",
+  "path": "cloudflare/references/workers-for-platforms",
+  "path_key": "cloudflare/references/workers-for-platforms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

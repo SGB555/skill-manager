@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "912a9bd1-056d-4190-8084-654d0136fd07",
+  "path": "dev-client",
+  "path_key": "dev-client",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

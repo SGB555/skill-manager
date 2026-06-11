@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3170267e-cf08-4568-bac2-806992ac0632",
+  "path": "cloudflare/references/web-analytics",
+  "path_key": "cloudflare/references/web-analytics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "829b0eac-7725-4b3e-8ec7-aaa7bb1c7730",
+  "path": "cloudflare/references/c3",
+  "path_key": "cloudflare/references/c3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

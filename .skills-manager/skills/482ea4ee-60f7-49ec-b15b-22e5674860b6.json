@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "482ea4ee-60f7-49ec-b15b-22e5674860b6",
+  "path": "cloudflare/references/workers-ai",
+  "path_key": "cloudflare/references/workers-ai",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

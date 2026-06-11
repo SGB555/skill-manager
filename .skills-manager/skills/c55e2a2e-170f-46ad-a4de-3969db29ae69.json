@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c55e2a2e-170f-46ad-a4de-3969db29ae69",
+  "path": "cloudflare/references/ai-search",
+  "path_key": "cloudflare/references/ai-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
