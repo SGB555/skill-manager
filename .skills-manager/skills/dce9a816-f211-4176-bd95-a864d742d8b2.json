@@ -4,7 +4,9 @@
   "path": "requesting-code-review",
   "path_key": "requesting-code-review",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "superpowers"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "obra/superpowers/requesting-code-review",

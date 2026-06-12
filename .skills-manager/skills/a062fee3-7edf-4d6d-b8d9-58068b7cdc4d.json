@@ -4,7 +4,9 @@
   "path": "finishing-a-development-branch",
   "path_key": "finishing-a-development-branch",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "superpowers"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "obra/superpowers/finishing-a-development-branch",

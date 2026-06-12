@@ -4,7 +4,9 @@
   "path": "dispatching-parallel-agents",
   "path_key": "dispatching-parallel-agents",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "superpowers"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "obra/superpowers/dispatching-parallel-agents",
