@@ -9,7 +9,7 @@
     "claude_code": true,
     "cline": false,
     "codebuddy": false,
-    "codex": false,
+    "codex": true,
     "command_code": false,
     "continue": false,
     "crush": false,
