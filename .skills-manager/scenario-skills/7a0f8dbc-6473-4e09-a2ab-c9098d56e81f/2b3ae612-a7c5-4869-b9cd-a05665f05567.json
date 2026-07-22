@@ -17,6 +17,7 @@
     "droid": false,
     "gemini_cli": true,
     "goose": false,
+    "hermes": true,
     "iflow": false,
     "junie": false,
     "kilo_code": false,
