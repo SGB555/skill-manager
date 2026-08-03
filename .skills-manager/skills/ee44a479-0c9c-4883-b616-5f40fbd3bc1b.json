@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee44a479-0c9c-4883-b616-5f40fbd3bc1b",
+  "path": "implement",
+  "path_key": "implement",
+  "enabled": true,
+  "tags": [
+    "matt"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/implement",
+    "subpath": "skills/engineering/implement",
+    "branch": null
+  }
+}
