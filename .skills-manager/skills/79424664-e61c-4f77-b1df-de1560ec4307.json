@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79424664-e61c-4f77-b1df-de1560ec4307",
+  "path": "agent-reach",
+  "path_key": "agent-reach",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "panniantong/agent-reach/agent-reach",
+    "subpath": "agent_reach/skill",
+    "branch": null
+  }
+}

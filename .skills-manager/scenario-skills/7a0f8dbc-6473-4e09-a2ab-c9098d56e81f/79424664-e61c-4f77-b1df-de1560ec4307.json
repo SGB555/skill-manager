@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "scenario_id": "7a0f8dbc-6473-4e09-a2ab-c9098d56e81f",
-  "skill_id": "f4735bd1-09fa-40dc-b531-3070bac27757",
+  "skill_id": "79424664-e61c-4f77-b1df-de1560ec4307",
   "sort_order": 10,
   "tools": {
-    "claude_code": false,
+    "claude_code": true,
     "codex": true,
     "cortex": true,
     "cursor": true,
     "gemini_cli": true,
-    "hermes": true,
-    "opencode": false
+    "hermes": false,
+    "opencode": true
   }
 }
