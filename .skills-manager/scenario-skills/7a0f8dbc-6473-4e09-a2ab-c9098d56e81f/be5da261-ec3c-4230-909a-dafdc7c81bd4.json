@@ -11,7 +11,7 @@
     "claude_code": true,
     "cline": true,
     "codebuddy": true,
-    "codex": false,
+    "codex": true,
     "command_code": true,
     "continue": true,
     "cortex": true,
